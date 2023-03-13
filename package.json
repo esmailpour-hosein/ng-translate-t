@@ -33,7 +33,7 @@
 		"angular": "^1.8.2",
 		"angular-mocks": "^1.8.2",
 		"jquery": "^3.3.1",
-		"tradeshift-scripts": "^2.8.0"
+		"tradeshift-scripts": "^5.2.6"
 	},
 	"peerDependencies": {
 		"angular": "1",
